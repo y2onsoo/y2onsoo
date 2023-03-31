@@ -14,7 +14,7 @@
 <br>
 
 <div align=center>
-	<h2>🛠 Tools 🛠</h2>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <br>
 
@@ -27,7 +27,7 @@
 <br>
 
 <div align=center>
-	<h2>🎨 SNS & Portfolio 🎨</h2>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 
 <p align=center>
