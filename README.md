@@ -27,7 +27,7 @@
 <br>
 
 <div align=center>
-	<h3>🎨 SNS & Portfolio 🎨</h3>
+	<h3>🎨 SNS 🎨</h3>
 </div>
 
 <p align=center>
